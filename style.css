@@ -273,7 +273,7 @@ section { scroll-margin-top: 64px; }
 .wow b, .map b { display: block; font-size: 12px; letter-spacing: .08em; margin-bottom: 2px; }
 .wow b { color: var(--accent); }
 .map b { color: var(--warm); }
-.links { margin-top: auto; padding-top: 6px; display: flex; flex-wrap: wrap; gap: 8px; }
+.links { margin-top: auto; padding-top: 6px; display: flex; flex-wrap: wrap; align-items: flex-start; align-content: flex-start; gap: 8px; }
 .open {
   display: inline-block;
   padding: 10px 16px;
